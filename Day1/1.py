@@ -1,0 +1,5 @@
+print("Hell")
+print("A","B","C",sep="*")
+print("A","B","C",sep="%")
+print("Hello","Welcome","All",sep="-",end="Thnx\n")
+print("Java")
