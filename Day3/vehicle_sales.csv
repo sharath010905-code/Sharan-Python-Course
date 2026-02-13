@@ -1,0 +1,11 @@
+Region,City,Vehicle_Type,Category,Units_Sold,Revenue
+South,Chennai,Activa,Scooter,1200,72000000
+South,Bangalore,Pulsar,Bike,900,81000000
+South,Hyderabad,Ather,EV,300,54000000
+North,Delhi,Splendor,Bike,1500,105000000
+North,Noida,TVS iQube,EV,250,45000000
+West,Mumbai,Jupiter,Scooter,1100,66000000
+West,Pune,Revolt,EV,200,36000000
+East,Kolkata,Activa,Scooter,800,48000000
+East,Bhubaneswar,Shine,Bike,700,56000000
+South,Coimbatore,Ola S1,EV,400,76000000
